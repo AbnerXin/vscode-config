@@ -1,0 +1,47 @@
+{
+	"name": "mahalo",
+	"displayName": "Mahalo",
+	"description": "Mahalo template integration",
+	"icon": "images/mahalo.png",
+	"version": "0.6.6",
+	"publisher": "makuko",
+	"repository": "mahalo/vscode-mahalo",
+	"categories": [
+		"Languages"
+	],
+	"license": "MIT",
+	"engines": {
+		"vscode": "0.10.x"
+	},
+	"contributes": {
+		"languages": [
+			{
+				"id": "MHML",
+				"aliases": [
+					"Mahalo Markup Language"
+				],
+				"extensions": [
+					".mhml",
+					".mtpl",
+					".mh.xml",
+					".mh.html",
+					".mh.htm",
+					".mh.tpl"
+				],
+				"configuration": "./MHML.configuration.json"
+			}
+		],
+		"grammars": [
+			{
+				"language": "MHML",
+				"scopeName": "text.html.mhml",
+				"path": "./syntaxes/MHML.tmLanguage"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "4c93ebe1-ba04-4abc-b78a-db21595118b3",
+		"publisherId": "5a9ca6e2-ffe2-4831-8ffb-ef19bcb0c912",
+		"publisherDisplayName": "Markus Schmidt"
+	}
+}

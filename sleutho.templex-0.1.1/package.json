@@ -1,0 +1,66 @@
+{
+	"name": "templex",
+	"displayName": "Templex",
+	"description": "Templex Language Support",
+	"version": "0.1.1",
+	"publisher": "sleutho",
+	"author": {
+		"email": "sascha.leuthold@live.com",
+		"name": "Sascha Leuthold",
+		"url": "https://github.com/sleutho"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sleutho/templex/"
+	},
+	"bugs": {
+		"url": "https://github.com/sleutho/templex/issues"
+	},
+	"engines": {
+		"vscode": "^1.5.0"
+	},
+	"icon": "images/logo.png",
+	"preview": true,
+	"categories": [
+		"Languages"
+	],
+	"keywords": [
+		"Languages",
+		"Templex",
+		"HyperWorks",
+		"Altair"
+	],
+	"contributes": {
+		"languages": [
+			{
+				"id": "tpl",
+				"aliases": [
+					"Templex",
+					"tpl"
+				],
+				"extensions": [
+					".tpl"
+				],
+				"configuration": "./tpl.configuration.json"
+			}
+		],
+		"grammars": [
+			{
+				"language": "tpl",
+				"scopeName": "source.tpl",
+				"path": "./syntaxes/tpl.tmLanguage"
+			}
+		],
+		"snippets": [
+			{
+				"language": "tpl",
+				"path": "./snippets/tpl.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "ac175a60-6ce4-42f3-a5dc-2abf34f27434",
+		"publisherId": "b34573f6-bd36-4cb2-a4a6-f3fafb1f95a8",
+		"publisherDisplayName": "sleutho"
+	}
+}

@@ -1,0 +1,93 @@
+{
+	"name": "syncing",
+	"displayName": "Syncing",
+	"description": "Sync every settings with your own GitHub Gist.",
+	"version": "1.4.4",
+	"publisher": "nonoroazoro",
+	"author": {
+		"email": "xiaochao.k@gmail.com",
+		"name": "nonoroazoro",
+		"url": "http://www.alibabagroup.com/"
+	},
+	"homepage": "https://github.com/nonoroazoro/vscode-syncing",
+	"license": "MIT",
+	"main": "src/extension",
+	"icon": "src/res/logo.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/nonoroazoro/vscode-syncing"
+	},
+	"bugs": {
+		"url": "https://github.com/nonoroazoro/vscode-syncing/issues",
+		"email": "xiaochao.k@gmail.com"
+	},
+	"engines": {
+		"vscode": "^1.5.0"
+	},
+	"categories": [
+		"Other"
+	],
+	"keywords": [
+		"sync",
+		"syncing",
+		"vscode-syncing"
+	],
+	"activationEvents": [
+		"*"
+	],
+	"contributes": {
+		"commands": [
+			{
+				"command": "syncing.uploadSettings",
+				"title": "Syncing: Upload Settings"
+			},
+			{
+				"command": "syncing.downloadSettings",
+				"title": "Syncing: Download Settings"
+			},
+			{
+				"command": "syncing.openSettings",
+				"title": "Syncing: Open Syncing Settings"
+			}
+		],
+		"keybindings": [
+			{
+				"key": "",
+				"command": "syncing.uploadSettings"
+			},
+			{
+				"key": "",
+				"command": "syncing.downloadSettings"
+			},
+			{
+				"key": "",
+				"command": "syncing.openSettings"
+			}
+		]
+	},
+	"scripts": {
+		"postinstall": "node ./node_modules/vscode/bin/install"
+	},
+	"devDependencies": {
+		"babel-eslint": "^7.2.3",
+		"eslint": "^3.19.0",
+		"eslint-config-zoro": "^1.2.9",
+		"mocha": "^3.3.0",
+		"should": "^11.2.1",
+		"vscode": "^1.1.0"
+	},
+	"dependencies": {
+		"adm-zip": "^0.4.7",
+		"async": "^2.4.0",
+		"fs-extra": "^3.0.0",
+		"github": "^8.1.1",
+		"https-proxy-agent": "^1.0.0",
+		"moment": "^2.18.1",
+		"temp": "^0.8.3"
+	},
+	"__metadata": {
+		"id": "e7db78ad-ac9f-4919-99bb-3627e07b6d1f",
+		"publisherId": "f6d9d666-6595-44fa-89fc-36a0c3e0c1fa",
+		"publisherDisplayName": "nonoroazoro"
+	}
+}
