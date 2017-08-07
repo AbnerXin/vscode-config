@@ -1,0 +1,543 @@
+{
+    "openedPathsList": {
+        "files": [
+            "/home/t04665/Desktop/1.json",
+            "/home/t04665/Desktop/gui-config.json",
+            "/home/t04665/Desktop/docker.sh",
+            "/home/t04665/Downloads/user.js",
+            "/home/t04665/Project/BaoMi/omnisocials/omnisocials-backend/src/modules/baomi/backend/migrations/addStaging2CAppChannel.php",
+            "/home/t04665/Project/Go/src/github.com/PuerkitoBio/throttled/store.go",
+            "/home/t04665/Desktop/rocket-chat-script.js",
+            "/home/t04665/logfile.config.json",
+            "/home/t04665/Project/NodeJs/index.js",
+            "/home/t04665/Desktop/raw-location .json",
+            "/home/t04665/Desktop/location.json",
+            "/home/t04665/Desktop/new.location.json",
+            "/home/t04665/Desktop/remove-duplicate-key.location.json",
+            "/home/t04665/Desktop/test1.json",
+            "/home/t04665/Desktop/test.json"
+        ],
+        "folders": [
+            "/home/t04665/Project/Baomi/omnisocials/omnisocials-backend/src/modules/baomi",
+            "/home/t04665/Project/NodeJs/materialize_blog",
+            "/home/t04665/Project/js/NiceFish",
+            "/home/t04665/Project/NodeJs/react-app",
+            "/home/t04665/Project/NodeJs/my-mern",
+            "/home/t04665/Project/baomi_old/To-Business-Universal",
+            "/home/t04665/Project/NodeJs/hello-next",
+            "/home/t04665/Project/NodeJs/my-blog",
+            "/home/t04665/Project/NodeJs/practicalnode/code/ch7/blog-express",
+            "/home/t04665/Project/NodeJs/practicalnode/code/ch5/blog-express",
+            "/home/t04665/Project/NodeJs/my-expresss",
+            "/home/t04665/Project/Baomi/omnisocials/omnisocials-backend",
+            "/home/t04665/Project/baomi_old/Reports",
+            "/home/t04665/Project/BaoMi/omnisocials/omnisocials-backend",
+            "/home/t04665/Project/BaoMi/omnisocials",
+            "/home/t04665/Project/BaoMi/omnisocials/omnisocials-backend/src/backend/runtime/logs",
+            "/home/t04665/Project/BaoMi/omnisocials/omnisocials-backend/src/modules/baomi",
+            "/home/t04665/Project/MERN/mern",
+            "/home/t04665/Project/MERN/next.js",
+            "/home/t04665/Project/mern-starter",
+            "/home/t04665/Project/node-login",
+            "/home/t04665/Project/BaoMi/Ops",
+            "/home/t04665/Project/my-app",
+            "/home/t04665/Project/my-react-app",
+            "/home/t04665/XPan",
+            "/home/t04665/Project/react-express",
+            "/home/t04665/Project/BaoMi/To-Consumer-Universal",
+            "/home/t04665/Project/coxxin.github.io",
+            "/home/t04665/Project/BaoMi/omnisocials/omnisocials-backend/src/modules/baomi/static",
+            "/home/t04665/Project/BaoMi/omnisocials/omnisocials-backend/src/modules/baomi/gitHooks",
+            "/home/t04665/Project/BaoMi/omnisocials/omnisocials-backend/src/modules/baomi/.git",
+            "/home/t04665/Project/BaoMi/Reports",
+            "/home/t04665/Project",
+            "/home/t04665/Project/training/omnisocials",
+            "/home/t04665/Project/omnisocials-frontend",
+            "/home/t04665/Project/workshop/output/abner.xin/training",
+            "/home/t04665/Project/NodeJs/examples",
+            "/home/t04665/Project/BaoMi/To-Business-Universal",
+            "/home/t04665/Project/Training",
+            "/home/t04665/Project/Vue-Live",
+            "/home/t04665/Project/BaoMi/Table-Recommendation",
+            "/home/t04665/Project/BaoMi/omnisocials/omnisocials-backend/src",
+            "/home/t04665/Project/BaoMi/omnisocials/omnisocials-backend/src/modules",
+            "/home/t04665/Project/BaoMi/omnisocials/omnisocials-frontend/src",
+            "/home/t04665/Project/Go/src/git.augmentum.com.cn/scrm/openapi",
+            "/home/t04665/Project/Go/omnisocials-openapi",
+            "/home/t04665/Project/Go/openapi",
+            "/home/t04665/Project/NodeJs/NodeLesson",
+            "/home/t04665/Project/node-lessons",
+            "/home/t04665/Project/BaoMi/Training/Yii2/starterKit",
+            "/home/t04665/Project/NodeJs/node-express-mongoose-demo",
+            "/home/t04665/Project/NodeJs/NodeLesson/lesson3",
+            "/home/t04665/Project/service-chat",
+            "/home/t04665/Project/egg-examples/hackernews",
+            "/home/t04665/egg-example",
+            "/usr/share/doc/autojump",
+            "/home/t04665/Project/NodeJs/MonitorBaomiLog",
+            "/home/t04665/Project/webgrind",
+            "/home/t04665/Project/barrage",
+            "/home/t04665/Project/codecopy",
+            "/home/t04665/Desktop/chromium-latest-linux-master",
+            "/home/t04665/Project/NodeJs/NodeLesson/lesson1",
+            "/home/t04665/Project/NodeJs",
+            "/home/t04665/Project/log.io",
+            "/home/t04665/Project/node-apache-log",
+            "/home/t04665/Project/logman",
+            "/home/t04665/Project/BaoMi/To-Consumer-H5",
+            "/home/t04665/Project/MLAlgorithms",
+            "/home/t04665/Project/elasticsearch-rtf",
+            "/home/t04665/Project/docker/service-chat",
+            "/home/t04665/Project/BaoMi/To-Business-Web",
+            "/home/t04665/Project/NeteaseCloudMusicApi-master",
+            "/home/t04665/Project/testPhp",
+            "/home/t04665/Project/BaoMi/omnisocials/omnisocials-frontend",
+            "/home/t04665/Project/asset-cache-slides-master",
+            "/home/t04665/Project/BaoMi/LogWeb",
+            "/home/t04665/Project/BaoMi/Training",
+            "/home/t04665/Project/BaoMi/TOB_WEB/To-Business-Web/src",
+            "/home/t04665/Project/BaoMi/Training/Yii2",
+            "/home/t04665/Downloads/asset-cache-slides-master",
+            "/home/t04665/Project/BaoMi/omnisocials/omnisocials-frontend/src/modules/baomi",
+            "/home/t04665/Project/BaoMi/baomi_training/Yii2",
+            "/home/t04665/Project/BaoMi/Training/baomi-server-training",
+            "/home/t04665/Project/BaoMi/BaoMiDocker/omnisocials/omnisocials-frontend/src/modules/baomi",
+            "/home/t04665/Project/BaoMi/Training/docker-nginx-php-mongo-master",
+            "/home/t04665/Project/BaoMi/Training/docker-master",
+            "/home/t04665/Project/BaoMi"
+        ]
+    },
+    "lastKnownKeybindings": {
+        "workbench.action.files.newUntitledFile": {
+            "id": "workbench.action.files.newUntitledFile",
+            "label": "Ctrl+N",
+            "isNative": true
+        },
+        "workbench.action.files.openFolder": {
+            "id": "workbench.action.files.openFolder",
+            "label": "Ctrl+K Ctrl+O",
+            "isNative": false
+        },
+        "workbench.action.reopenClosedEditor": {
+            "id": "workbench.action.reopenClosedEditor",
+            "label": "Ctrl+Shift+T",
+            "isNative": true
+        },
+        "workbench.action.files.save": {
+            "id": "workbench.action.files.save",
+            "label": "Ctrl+S",
+            "isNative": true
+        },
+        "workbench.action.files.saveAs": {
+            "id": "workbench.action.files.saveAs",
+            "label": "Ctrl+Shift+S",
+            "isNative": true
+        },
+        "workbench.action.openGlobalSettings": {
+            "id": "workbench.action.openGlobalSettings",
+            "label": "Ctrl+,",
+            "isNative": true
+        },
+        "workbench.action.openGlobalKeybindings": {
+            "id": "workbench.action.openGlobalKeybindings",
+            "label": "Ctrl+K Ctrl+S",
+            "isNative": false
+        },
+        "workbench.extensions.action.showRecommendedKeymapExtensions": {
+            "id": "workbench.extensions.action.showRecommendedKeymapExtensions",
+            "label": "Ctrl+K Ctrl+M",
+            "isNative": false
+        },
+        "workbench.action.selectTheme": {
+            "id": "workbench.action.selectTheme",
+            "label": "Ctrl+K Ctrl+T",
+            "isNative": false
+        },
+        "workbench.action.newWindow": {
+            "id": "workbench.action.newWindow",
+            "label": "Ctrl+Shift+N",
+            "isNative": true
+        },
+        "workbench.action.closeWindow": {
+            "id": "workbench.action.closeWindow",
+            "label": "Ctrl+Shift+W",
+            "isNative": true
+        },
+        "workbench.action.closeFolder": {
+            "id": "workbench.action.closeFolder",
+            "label": "Ctrl+K F",
+            "isNative": false
+        },
+        "workbench.action.closeActiveEditor": {
+            "id": "workbench.action.closeActiveEditor",
+            "label": "Ctrl+W",
+            "isNative": true
+        },
+        "workbench.action.quit": {
+            "id": "workbench.action.quit",
+            "label": "Ctrl+Q",
+            "isNative": true
+        },
+        "undo": {
+            "id": "undo",
+            "label": "Ctrl+Z",
+            "isNative": true
+        },
+        "redo": {
+            "id": "redo",
+            "label": "Ctrl+Y",
+            "isNative": true
+        },
+        "editor.action.clipboardCutAction": {
+            "id": "editor.action.clipboardCutAction",
+            "label": "Ctrl+X",
+            "isNative": true
+        },
+        "editor.action.clipboardCopyAction": {
+            "id": "editor.action.clipboardCopyAction",
+            "label": "Ctrl+C",
+            "isNative": true
+        },
+        "editor.action.clipboardPasteAction": {
+            "id": "editor.action.clipboardPasteAction",
+            "label": "Ctrl+V",
+            "isNative": true
+        },
+        "actions.find": {
+            "id": "actions.find",
+            "label": "Ctrl+F",
+            "isNative": true
+        },
+        "editor.action.startFindReplaceAction": {
+            "id": "editor.action.startFindReplaceAction",
+            "label": "Ctrl+H",
+            "isNative": true
+        },
+        "workbench.action.findInFiles": {
+            "id": "workbench.action.findInFiles",
+            "label": "Ctrl+Shift+F",
+            "isNative": true
+        },
+        "workbench.action.replaceInFiles": {
+            "id": "workbench.action.replaceInFiles",
+            "label": "Ctrl+Shift+H",
+            "isNative": true
+        },
+        "editor.emmet.action.expandAbbreviation": {
+            "id": "editor.emmet.action.expandAbbreviation",
+            "label": "Tab",
+            "isNative": true
+        },
+        "editor.action.commentLine": {
+            "id": "editor.action.commentLine",
+            "label": "Ctrl+/",
+            "isNative": true
+        },
+        "editor.action.blockComment": {
+            "id": "editor.action.blockComment",
+            "label": "Ctrl+Shift+A",
+            "isNative": true
+        },
+        "editor.action.insertCursorAbove": {
+            "id": "editor.action.insertCursorAbove",
+            "label": "Shift+Alt+Up",
+            "isNative": true
+        },
+        "editor.action.insertCursorBelow": {
+            "id": "editor.action.insertCursorBelow",
+            "label": "Shift+Alt+Down",
+            "isNative": true
+        },
+        "editor.action.insertCursorAtEndOfEachLineSelected": {
+            "id": "editor.action.insertCursorAtEndOfEachLineSelected",
+            "label": "Shift+Alt+I",
+            "isNative": true
+        },
+        "editor.action.addSelectionToNextFindMatch": {
+            "id": "editor.action.addSelectionToNextFindMatch",
+            "label": "Ctrl+D",
+            "isNative": true
+        },
+        "editor.action.selectHighlights": {
+            "id": "editor.action.selectHighlights",
+            "label": "Ctrl+Shift+L",
+            "isNative": true
+        },
+        "editor.action.copyLinesUpAction": {
+            "id": "editor.action.copyLinesUpAction",
+            "label": "Ctrl+Shift+Alt+Up",
+            "isNative": true
+        },
+        "editor.action.copyLinesDownAction": {
+            "id": "editor.action.copyLinesDownAction",
+            "label": "Ctrl+Shift+Alt+Down",
+            "isNative": true
+        },
+        "editor.action.moveLinesUpAction": {
+            "id": "editor.action.moveLinesUpAction",
+            "label": "Alt+Up",
+            "isNative": true
+        },
+        "editor.action.moveLinesDownAction": {
+            "id": "editor.action.moveLinesDownAction",
+            "label": "Alt+Down",
+            "isNative": true
+        },
+        "editor.action.selectAll": {
+            "id": "editor.action.selectAll",
+            "label": "Ctrl+A",
+            "isNative": true
+        },
+        "editor.action.smartSelect.grow": {
+            "id": "editor.action.smartSelect.grow",
+            "label": "Shift+Alt+Right",
+            "isNative": true
+        },
+        "editor.action.smartSelect.shrink": {
+            "id": "editor.action.smartSelect.shrink",
+            "label": "Shift+Alt+Left",
+            "isNative": true
+        },
+        "workbench.view.explorer": {
+            "id": "workbench.view.explorer",
+            "label": "Ctrl+Shift+E",
+            "isNative": true
+        },
+        "workbench.view.search": {
+            "id": "workbench.view.search",
+            "label": "Ctrl+Shift+F",
+            "isNative": true
+        },
+        "workbench.view.debug": {
+            "id": "workbench.view.debug",
+            "label": "Ctrl+Shift+D",
+            "isNative": true
+        },
+        "workbench.view.extensions": {
+            "id": "workbench.view.extensions",
+            "label": "Ctrl+Shift+X",
+            "isNative": true
+        },
+        "workbench.action.output.toggleOutput": {
+            "id": "workbench.action.output.toggleOutput",
+            "label": "Ctrl+K Ctrl+H",
+            "isNative": false
+        },
+        "workbench.debug.action.toggleRepl": {
+            "id": "workbench.debug.action.toggleRepl",
+            "label": "Ctrl+Shift+Y",
+            "isNative": true
+        },
+        "workbench.action.terminal.toggleTerminal": {
+            "id": "workbench.action.terminal.toggleTerminal",
+            "label": "Ctrl+`",
+            "isNative": true
+        },
+        "workbench.actions.view.problems": {
+            "id": "workbench.actions.view.problems",
+            "label": "Ctrl+Shift+M",
+            "isNative": true
+        },
+        "workbench.action.showCommands": {
+            "id": "workbench.action.showCommands",
+            "label": "Ctrl+Shift+P",
+            "isNative": true
+        },
+        "workbench.action.toggleFullScreen": {
+            "id": "workbench.action.toggleFullScreen",
+            "label": "F11",
+            "isNative": true
+        },
+        "workbench.action.toggleZenMode": {
+            "id": "workbench.action.toggleZenMode",
+            "label": "Ctrl+K Z",
+            "isNative": false
+        },
+        "workbench.action.splitEditor": {
+            "id": "workbench.action.splitEditor",
+            "label": "Ctrl+\\",
+            "isNative": true
+        },
+        "workbench.action.toggleEditorGroupLayout": {
+            "id": "workbench.action.toggleEditorGroupLayout",
+            "label": "Shift+Alt+1",
+            "isNative": true
+        },
+        "workbench.action.toggleSidebarVisibility": {
+            "id": "workbench.action.toggleSidebarVisibility",
+            "label": "Ctrl+B",
+            "isNative": true
+        },
+        "workbench.action.togglePanel": {
+            "id": "workbench.action.togglePanel",
+            "label": "Ctrl+J",
+            "isNative": true
+        },
+        "editor.action.toggleWordWrap": {
+            "id": "editor.action.toggleWordWrap",
+            "label": "Alt+Z",
+            "isNative": true
+        },
+        "workbench.action.zoomIn": {
+            "id": "workbench.action.zoomIn",
+            "label": "Ctrl+=",
+            "isNative": true
+        },
+        "workbench.action.zoomOut": {
+            "id": "workbench.action.zoomOut",
+            "label": "Ctrl+-",
+            "isNative": true
+        },
+        "workbench.action.zoomReset": {
+            "id": "workbench.action.zoomReset",
+            "label": "Ctrl+NumPad0",
+            "isNative": false
+        },
+        "workbench.action.navigateBack": {
+            "id": "workbench.action.navigateBack",
+            "label": "Ctrl+Alt+-",
+            "isNative": true
+        },
+        "workbench.action.navigateForward": {
+            "id": "workbench.action.navigateForward",
+            "label": "Ctrl+Shift+-",
+            "isNative": true
+        },
+        "workbench.action.nextEditor": {
+            "id": "workbench.action.nextEditor",
+            "label": "Ctrl+PageDown",
+            "isNative": true
+        },
+        "workbench.action.previousEditor": {
+            "id": "workbench.action.previousEditor",
+            "label": "Ctrl+PageUp",
+            "isNative": true
+        },
+        "workbench.action.openNextRecentlyUsedEditorInGroup": {
+            "id": "workbench.action.openNextRecentlyUsedEditorInGroup",
+            "label": "Ctrl+Tab",
+            "isNative": true
+        },
+        "workbench.action.openPreviousRecentlyUsedEditorInGroup": {
+            "id": "workbench.action.openPreviousRecentlyUsedEditorInGroup",
+            "label": "Ctrl+Shift+Tab",
+            "isNative": true
+        },
+        "workbench.action.focusFirstEditorGroup": {
+            "id": "workbench.action.focusFirstEditorGroup",
+            "label": "Ctrl+1",
+            "isNative": true
+        },
+        "workbench.action.focusSecondEditorGroup": {
+            "id": "workbench.action.focusSecondEditorGroup",
+            "label": "Ctrl+2",
+            "isNative": true
+        },
+        "workbench.action.focusThirdEditorGroup": {
+            "id": "workbench.action.focusThirdEditorGroup",
+            "label": "Ctrl+3",
+            "isNative": true
+        },
+        "workbench.action.focusNextGroup": {
+            "id": "workbench.action.focusNextGroup",
+            "label": "Ctrl+K Ctrl+RightArrow",
+            "isNative": false
+        },
+        "workbench.action.focusPreviousGroup": {
+            "id": "workbench.action.focusPreviousGroup",
+            "label": "Ctrl+K Ctrl+LeftArrow",
+            "isNative": false
+        },
+        "workbench.action.quickOpen": {
+            "id": "workbench.action.quickOpen",
+            "label": "Ctrl+P",
+            "isNative": true
+        },
+        "workbench.action.gotoSymbol": {
+            "id": "workbench.action.gotoSymbol",
+            "label": "Ctrl+Shift+O",
+            "isNative": true
+        },
+        "workbench.action.showAllSymbols": {
+            "id": "workbench.action.showAllSymbols",
+            "label": "Ctrl+T",
+            "isNative": true
+        },
+        "editor.action.goToDeclaration": {
+            "id": "editor.action.goToDeclaration",
+            "label": "F12",
+            "isNative": true
+        },
+        "workbench.action.gotoLine": {
+            "id": "workbench.action.gotoLine",
+            "label": "Ctrl+G",
+            "isNative": true
+        },
+        "workbench.action.debug.start": {
+            "id": "workbench.action.debug.start",
+            "label": "F5",
+            "isNative": true
+        },
+        "workbench.action.debug.run": {
+            "id": "workbench.action.debug.run",
+            "label": "Ctrl+F5",
+            "isNative": true
+        },
+        "workbench.action.debug.stop": {
+            "id": "workbench.action.debug.stop",
+            "label": "Shift+F5",
+            "isNative": true
+        },
+        "workbench.action.debug.restart": {
+            "id": "workbench.action.debug.restart",
+            "label": "Ctrl+Shift+F5",
+            "isNative": true
+        },
+        "workbench.action.debug.stepOver": {
+            "id": "workbench.action.debug.stepOver",
+            "label": "F10",
+            "isNative": true
+        },
+        "workbench.action.debug.stepInto": {
+            "id": "workbench.action.debug.stepInto",
+            "label": "F11",
+            "isNative": true
+        },
+        "workbench.action.debug.stepOut": {
+            "id": "workbench.action.debug.stepOut",
+            "label": "Shift+F11",
+            "isNative": true
+        },
+        "workbench.action.debug.continue": {
+            "id": "workbench.action.debug.continue",
+            "label": "F5",
+            "isNative": true
+        },
+        "editor.debug.action.toggleBreakpoint": {
+            "id": "editor.debug.action.toggleBreakpoint",
+            "label": "F9",
+            "isNative": true
+        },
+        "editor.debug.action.toggleColumnBreakpoint": {
+            "id": "editor.debug.action.toggleColumnBreakpoint",
+            "label": "Shift+F9",
+            "isNative": true
+        }
+    },
+    "theme": "vs-dark vscode-theme-defaults-themes-dark_plus-json",
+    "windowsState": {
+        "openedFolders": [],
+        "lastActiveWindow": {
+            "workspacePath": "/home/t04665/Project/Baomi/omnisocials/omnisocials-backend/src/modules/baomi",
+            "uiState": {
+                "mode": 0,
+                "x": 1440,
+                "y": 24,
+                "width": 1440,
+                "height": 876
+            }
+        }
+    },
+    "telemetry.machineId": "75aed53dbd3693c43f29850949433d27b9dacffdb47720c59ec79eb7d15d70da",
+    "pickerWorkingDir": "/home/t04665/Project"
+}

@@ -1,0 +1,19 @@
+{
+    "workbench.iconTheme": "vs-seti",
+    "editor.renderWhitespace": "all",
+    "editor.rulers": [120],
+    "editor.minimap.enabled": true,
+    "window.zoomLevel": 0,
+    "files.trimTrailingWhitespace": true,
+    "sync.gist": "c123919c970e76b139311a1b849a4bda8c940313",
+    "sync.lastUpload": "",
+    "sync.autoDownload": false,
+    "sync.autoUpload": false,
+    "sync.lastDownload": "",
+    "sync.forceDownload": false,
+    "sync.anonymousGist": false,
+    "sync.host": "",
+    "sync.pathPrefix": "",
+    "sync.quietSync": false,
+    "sync.askGistName": false
+}
